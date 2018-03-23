@@ -1,0 +1,8 @@
+{
+  "name": "MyMedMen-PickUp",
+  "app_id": "f54a2fdc",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
